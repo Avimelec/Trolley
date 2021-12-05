@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c49380.chunk.css",
+    "main.js": "/static/js/main.2258e670.chunk.js",
+    "main.js.map": "/static/js/main.2258e670.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0d382ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0d382ec.js.map",
+    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
+    "static/js/2.76e883bb.chunk.js": "/static/js/2.76e883bb.chunk.js",
+    "static/js/2.76e883bb.chunk.js.map": "/static/js/2.76e883bb.chunk.js.map",
+    "static/js/3.0d86b613.chunk.js": "/static/js/3.0d86b613.chunk.js",
+    "static/js/3.0d86b613.chunk.js.map": "/static/js/3.0d86b613.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.f5c49380.chunk.css.map": "/static/css/main.f5c49380.chunk.css.map",
+    "static/js/2.76e883bb.chunk.js.LICENSE.txt": "/static/js/2.76e883bb.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/static/media/BannerFelizNavidadPromocion.887b6b21.png",
+    "static/media/Navbar.css": "/static/media/Logotlacomiztli.8426c2cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0d382ec.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.76e883bb.chunk.js",
+    "static/css/main.f5c49380.chunk.css",
+    "static/js/main.2258e670.chunk.js"
+  ]
+}
